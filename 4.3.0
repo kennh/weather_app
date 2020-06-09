@@ -1,0 +1,4 @@
++ handlebars@4.7.6
+added 6 packages from 37 contributors, removed 3 packages, updated 3 packages, moved 2 packages and audited 153 packages in 3.496s
+found 9 vulnerabilities (1 low, 2 moderate, 5 high, 1 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
